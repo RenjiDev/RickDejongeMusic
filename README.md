@@ -11,5 +11,5 @@ In order to run this app on a local server:
 
 ##########################################################################################################
 
-For more information, visit https://renjidev.io
+For more information, visit https://www.renjidev.io
 or contact us at info@renjidev.io
